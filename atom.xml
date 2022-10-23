@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-23T13:39:32.762Z</updated>
+  <updated>2022-10-23T15:40:24.553Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hello</title>
+    <link href="http://example.com/2022/10/23/hello/"/>
+    <id>http://example.com/2022/10/23/hello/</id>
+    <published>2022-10-23T15:38:57.000Z</published>
+    <updated>2022-10-23T15:40:24.553Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;ffff&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="life" scheme="http://example.com/categories/life/"/>
+    
+    
+    <category term="gg" scheme="http://example.com/tags/gg/"/>
+    
+  </entry>
+  
+  <entry>
     <title>My New Post</title>
     <link href="http://example.com/2022/10/23/My-New-Post/"/>
     <id>http://example.com/2022/10/23/My-New-Post/</id>
     <published>2022-10-23T13:39:01.000Z</published>
-    <updated>2022-10-23T13:39:32.762Z</updated>
+    <updated>2022-10-23T14:11:15.060Z</updated>
     
     
       
@@ -35,6 +61,10 @@
     
     
     
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+    <category term="games" scheme="http://example.com/tags/games/"/>
     
   </entry>
   
